@@ -1,12 +1,25 @@
 body {
-    background-image: url("../images/pexels-min-an-1629212.jpg")
-
+    background-image: url("../images/cartoonbackground.jpg")
+    font family:
 }
 .custom-card {
-  opacity: .95;
-  box-shadow: 5px 5px 10px #6c757d !important;
+  opacity: 100;
+  box-shadow: 5px 5px 10px #6a9db1 !important;
 }
 
 ul {
   list-style-position: inside !important;
 }
+
+
+
+/* text-dark" href="/">Tech Blog <i class="bi bi-stickies"></i></a> */
+      /* <div class="navbar-nav mx-auto" id="navbarText">
+        <li class="nav-item">
+    a class="nav-link text-dark" href="/dashboard">Dashboard</a>
+
+
+      <button class="btn btn-outline-dark" id="logout">
+        Log Out
+      </button> */
+
