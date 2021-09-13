@@ -10,8 +10,8 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Application Links
 
->* [rePost](https://repostproject.herokuapp.com/)
->* [Github](https://github.com/SarahKubik/rePost)
+>* [Github Repo](https://github.com/SarahKubik/TechNerds.git)
+>* [Github Site](https://sarahkubik.github.io/TechNerds/)</li>
 
 ## User Story
 
@@ -37,3 +37,4 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 >* [Bootstrap](https://getbootstrap.com)
 >* [Coolors](https://coolors.co)
 >* [Quilljs](https://quilljs.com)
+
