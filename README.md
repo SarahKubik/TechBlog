@@ -37,4 +37,3 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 >* [Bootstrap](https://getbootstrap.com)
 >* [Coolors](https://coolors.co)
 >* [Quilljs](https://quilljs.com)
-
