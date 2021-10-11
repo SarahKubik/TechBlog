@@ -13,7 +13,8 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ## Application Links
 
 >* [Github Repo](https://github.com/SarahKubik/TechNerds.git)
->* [Github Site](https://sarahkubik.github.io/TechNerds/)</li>
+>* [Github Site](https://sarahkubik.github.io/TechNerds/)
+>* [Heroku Site](https://technerds.herokuapp.com/)</li>
 
 ## User Story
 
