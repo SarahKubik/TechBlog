@@ -2,6 +2,8 @@
 
 ## **Tech Nerds**
 
+![TechNerdsocialmediablog](public/images/TechNerds.JPG)
+
 **A blog sharing content managmement application.**
 
 >AS A developer who writes about tech
